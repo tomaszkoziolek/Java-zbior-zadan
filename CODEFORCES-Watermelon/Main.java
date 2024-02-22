@@ -1,3 +1,5 @@
+// Liczba jest podzielna na dwie parzyste czesci jeżeli sama jest parzysta, poza liczba 2.
+
 import java.util.Scanner;
 
 public class Main {
