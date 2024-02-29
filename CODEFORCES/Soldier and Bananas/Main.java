@@ -9,6 +9,7 @@ public class Main {
         scanner.close();
 
         //1k + 2k + 3k... = k*(1+2+3...) -> firstBananaCost * sum
+        //sum - suma liczb naturalnych od 1 do n -> n*(n+1)/2
 
         int sum = (amountOfBananasHeWans * (amountOfBananasHeWans + 1)) / 2;
 
